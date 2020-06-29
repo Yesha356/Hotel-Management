@@ -7,3 +7,10 @@ Hotel Management System
  This system performs all the necessary tasks that a hotel software application performs.
  The Purpose of the whole process is to ease the daily or regular activities of the Hotel Management into an automatic computerized retrievable process.
  The daily activities includes the Room activities, Entering details of the new customer check in, To allocate a room as per the customer need and interest, Recording the checkout time and details, Releasing or Empty of room and to record the process in a computer system for future.
+
+Requirements:
+        1.  IDE for java i.e. Eclips, Netbeans,etc.
+        2.  MySQL
+
+To Run the Project:
+        Run:  manu.java
